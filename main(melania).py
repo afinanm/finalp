@@ -12,3 +12,5 @@ pyxel.load("assets/pyxel_resource.pyxres")
 # pyxel.image(2).load(17, 0, "assets/player.png")
 # To start the game2 we invoke the run method with the update and draw functions
 pyxel.run(board.update, board.draw)
+
+# TEST AVISAME SI ESTO TE APARECE.
